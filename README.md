@@ -1,70 +1,36 @@
-# Getting Started with Create React App
+# Projeto Listagem Todo 
+  * Projeto de estudo ReactJS.
+  * Projeto estilizado com CSS puro.
+  * Projeto consume uma API externa para listar as tarefas iniciais.
+  * Clique <a href="https://www.youtube.com/watch?v=ErjWNvP6mko&ab_channel=FelipeRocha%E2%80%A2dicasparadevs" target="_blank">aqui</a> para visualizar o tutorial. Créditos para 
+Felipe Rocha • dicasparadevs (canal Youtube).
+  * Aplicação somente autorizado com finalidade de estudo.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Pacotes e Tecnologias Utilizadas
+  * Axios;
+  * react-icons;
+  * react-router-dom;
+  * uuid.
 
-## Available Scripts
+## Objetivos e finalidades
+  * Adicionar itens em sua listagem de itens a fazer (todo);
+  * listar os seus afazeres;
+  * permitir setar o item como finalizado, clicando sobre ele;
+  * permitir remover o item da listagem de atividades, clicando no "x";
+  * permitir visualizar informações adicionais sobre o item clicando sobre o ícone de informação.
 
-In the project directory, you can run:
+## Observações e estudos futuros
+  * Os detalhes das tarefas estão estáticas (mesmo detalhamento para todas as tarefas).
+  * Futuramente será desenvolvido uma API dedicada para essa aplicação (Será possível adicionar o detalhamento da atividade na hora da criação).
 
-### `npm start`
+## Como utilizar
+  * Baixar o repositório;
+  * executar npm install;
+  * executar npm start
+  * aplicação será iniciada em seu navegador padrão.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## Visual da aplicação
+ * A imagem da esquerda representa a pgina inicial: Onde o usuário pode adicionar novas atividades e visualizar e excluir as atividades já cadastradas.
+ * A imagem da direita representa a página de detalhes da atividade: Onde o usuário consegue visualizar os detalhes da atividade.
+<img align="right" width="47%" src="https://user-images.githubusercontent.com/78274293/151244140-b8176272-bf69-4aaa-a76b-46e46b3b975d.png" />
+<img align="left" width="47%" src="https://user-images.githubusercontent.com/78274293/151242596-41f8138c-3385-4556-b44b-6a90282bf33a.png" />
