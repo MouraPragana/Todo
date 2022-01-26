@@ -2,7 +2,7 @@
   max-width: 500px;
   margin: 30px auto;
   padding: 12px;
-  min-height: 300px;
+  min-height: fit-content;
   border: 2px solid chartreuse;
   border-radius: 10px;
 }
