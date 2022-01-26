@@ -2,7 +2,7 @@
   * Projeto de estudo ReactJS.
   * Projeto estilizado com CSS puro.
   * Projeto consume uma API externa para listar as tarefas iniciais.
-  * Clique <a href="https://www.youtube.com/watch?v=ErjWNvP6mko&ab_channel=FelipeRocha%E2%80%A2dicasparadevs" target="_blank">aqui</a> para visualizar o tutorial. Créditos para 
+  * Clique <a href="https://www.youtube.com/watch?v=ErjWNvP6mko&ab_channel=FelipeRocha%E2%80%A2dicasparadevs">aqui</a> para visualizar o tutorial. Créditos para 
 Felipe Rocha • dicasparadevs (canal Youtube).
   * Aplicação somente autorizado com finalidade de estudo.
 
