@@ -15,6 +15,10 @@
   font-size: 16px;
 }
 
+.add-task-input::placeholder {
+  color: rgb(255, 80, 80);
+}
+
 .add-task-button-container {
   margin: 0 0 0 10px;
   flex: 1;
