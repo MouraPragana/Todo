@@ -69,7 +69,7 @@ const App = () => {
               </>
             }
           />
-          <Route path="/:taskTitle" exact element={<TaskDetails />} />
+          <Route path="/:taskId/:taskTitle" exact element={<TaskDetails />} />
         </Routes>
       </div>
     </Router>

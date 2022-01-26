@@ -9,7 +9,7 @@ const Task = ({ task, handleTaskClick, handleTaskDeletion }) => {
   const navigate = useNavigate();
 
   const handleTaskDetailsClick = () => {
-    navigate(`/${task.title}`);
+    navigate(`/${task.id}/${task.title}`);
   };
 
   return (
