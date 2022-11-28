@@ -19,10 +19,6 @@ Felipe Rocha • dicasparadevs (canal Youtube).
   * permitir remover o item da listagem de atividades, clicando no "x";
   * permitir visualizar informações adicionais sobre o item clicando sobre o ícone de informação.
 
-## Observações e estudos futuros
-  * Os detalhes das tarefas estão estáticas (mesmo detalhamento para todas as tarefas).
-  * Futuramente será desenvolvido uma API dedicada para essa aplicação (Será possível adicionar o detalhamento da atividade na hora da criação).
-
 ## Como utilizar
   * Baixar o repositório;
   * executar npm install;
